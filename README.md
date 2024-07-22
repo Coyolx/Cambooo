@@ -19,7 +19,7 @@ and execute it passing the link on the created repository
 python contribute.py --repository=git@github.com:user/repo.git
 ```
 Now you have a repository with lots of changes in your GitHub account.
-Note: it takes several minutes for GitHub to reindex your activity.
+Note: it takes several minutes for GitHub to reindex your activity
 
 ## How it works
 The script initializes an empty git repository, creates a text file and starts 
