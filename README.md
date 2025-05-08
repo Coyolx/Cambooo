@@ -8,7 +8,7 @@ for the last year.
 ![Before](before.png)   
 ### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
 ![After](after.png)     
- 
+  
 ## How to us 
 1. Create an empty GitHub repository. Do not initialize it
 2. Download [the contribute.py script](https://github.com/Shpota/github-activity-generator/archive/master.zip) 
