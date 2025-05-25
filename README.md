@@ -36,7 +36,7 @@ on GitHub. Now, you only need to set up your account
 This way GitHub users will see that you contributed something, but they won't be
 able to see what exactly.
 
-## Customizations
+## Customizations 
 You can customize how often to commit and how many commits a day to make, etc.
 
 For instance, with the following command, the script will make from 1 to 12 
