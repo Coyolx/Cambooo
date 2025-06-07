@@ -59,7 +59,7 @@ will keep committing.
 python contribute.py --days_before=10 --days_after=15
 ```
 
-Run `python contribute.py --help` to get help.
+Run `python contribute.py --help` to get help. 
 
 ## System requirements
 To be able to execute the script you need to have Python and Git installed.
